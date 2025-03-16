@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kousalya-kethavath
+- 👀 I’m interested in  Data Engineering, Machine Learning, and Cloud Technologies.
+- 🌱 I’m currently learning AWS, Data Pipelines, and Advanced ML Models.
+- 💞️ I’m looking to collaborate on Data Engineering Projects, ML Solutions, and Cloud-based Architectures
