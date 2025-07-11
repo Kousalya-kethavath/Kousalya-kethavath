@@ -1,4 +1,4 @@
-👋 Hi, I’m @Kousalya-kethavath
-👀 I’m interested in Backend Software Engineering, Data Engineering, Machine Learning, and Cloud Technologies.
-🌱 I’m currently deepening my skills in AWS, Backend Systems, Scalable Data Pipelines, and Advanced ML Models.
-💞️ I’m looking to collaborate on Backend API Development, Data-Driven Applications, and Cloud-Native Architectures.
+- 👋 Hi, I’m @Kousalya-kethavath
+- 👀 I’m interested in Backend Software Engineering, Data Engineering, Machine Learning, and Cloud Technologies.
+- 🌱 I’m currently deepening my skills in AWS, Backend Systems, Scalable Data Pipelines, and Advanced ML Models.
+- 💞️ I’m looking to collaborate on Backend API Development, Data-Driven Applications, and Cloud-Native Architectures.
